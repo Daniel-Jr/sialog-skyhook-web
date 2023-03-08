@@ -63864,7 +63864,7 @@ n.toString
 A.Hy(n,"Please select a provider",o)
 return}s=A.a(p.w,"_controller").a.a
 if(s.length===0){p.ad(new A.a8m(p))
-return}if(!B.b.v(s,"discord.com")){p.ad(new A.a8n(p))
+return}if(!B.b.v(s,"discordapp.com")){p.ad(new A.a8n(p))
 return}r=A.jQ(s,0,o)
 q="https://skyhookapi.com/api/webhooks/"+r.gjK()[r.gjK().length-2]+"/"+B.c.gJ(r.gjK())+"/"+m
 A.tU(new A.lX(q))

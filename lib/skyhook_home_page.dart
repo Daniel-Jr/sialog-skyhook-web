@@ -78,7 +78,7 @@ class _SkyhookHomePageState extends State<SkyhookHomePage> {
   }
 
   void _generate() {
-    String domain = "discord.com";
+    String domain = "discordapp.com";
     String providerPath = _selectedProvider?.path ?? "";
     if (providerPath.isEmpty) {
       SnackBarHelper.show(context, 'Please select a provider');
